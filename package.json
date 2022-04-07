@@ -1,0 +1,11 @@
+{
+  "name": "@wcd/feliciakelley.solid-l1os2fzy",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve NTJWl0MqJVElLp3ebR3G --open"
+  }
+}

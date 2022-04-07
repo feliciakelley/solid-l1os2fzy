@@ -1,2 +1,5 @@
-# solid-l1os2fzy
-Created with WebComponents.dev
+# Solid Starter Kit
+
+### Links
+
+- [GitHub](https://github.com/ryansolid/solid)
